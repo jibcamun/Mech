@@ -1,5 +1,8 @@
-# Mech
-![Map](https://github.com/jibcamun/Mech/blob/main/Images/Image3.png)
+<h1 align="center">Mech</h1>
+
+<p align="center">
+  <img src="https://github.com/jibcamun/Mech/blob/main/Images/Image3.png" alt="Map">
+</p>
 
 ## Purpose
 ### What is this?

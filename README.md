@@ -1,7 +1,13 @@
 # Mech
 
 ## Purpose
+A numpad for people who really want one but have a laptop.
 
+# Images
+![WithCase](https://github.com/jibcamun/Mech/blob/main/Images/Image1.png)
+![PCB](https://github.com/jibcamun/Mech/blob/main/Images/Image2.png)
+![Map](https://github.com/jibcamun/Mech/blob/main/Images/Image3.png)
+![WithCaseSIde](https://github.com/jibcamun/Mech/blob/main/Images/Image4.png)
 
 ## Bill Of Materials (BOM)
 

@@ -1,4 +1,5 @@
 <h1 align="center">Mech</h1>
+<p align="center">~ A numpad for the elderly</p>
 
 <p align="center">
   <img src="https://github.com/jibcamun/Mech/blob/main/Images/Image3.png" alt="Map">
@@ -14,7 +15,7 @@ I have seen old people who use computers only as a calculator and find it hard t
 
 ## Features
 1. Uses Arduino Pro Micro.
-2. Uses MX Switches (1.00u) and Cherry MX Keycaps for a better feel and feedback while pressing a button which is missing in recent keyboards.
+2. Uses MX Switches (1.00u) and Cherry MX Keycaps for a better feel and feedback while pressing a key
 3. Made it easy to connect and use with a USB connection, thus making it more accessible for the elderly.
 4. Simple UX, again making it easily usable for the elderly.
 5. All keycaps are angled forward making it easy for "finger typing".
@@ -39,4 +40,4 @@ I have seen old people who use computers only as a calculator and find it hard t
 
 ## Attributions 
 1. Cherry MX Switches: [row 1 1u blank keycap for cherry mx style switches](https://www.thingiverse.com/thing:5616342) by [LazarosVarvatis](https://www.thingiverse.com/LazarosVarvatis/designs) is licensed under the [Creative Commons - Attribution - Non-Commercial - Share Alike](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-2. Footprints:  [Scotto]()
+2. Footprints: [scottokeebs](https://github.com/joe-scotto/scottokeebs)

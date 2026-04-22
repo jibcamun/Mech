@@ -17,20 +17,22 @@ I have seen old people who use computers only as a calculator and find it hard t
 5. All keycaps are angled forward making it easy for "finger typing".
 
 ## Schematics
-![Schematics]()
+![Schematics](https://github.com/jibcamun/Mech/blob/main/Images/Image5.png)
 
 ## PCB
 ![PCB](https://github.com/jibcamun/Mech/blob/main/Images/Image2.png)
+![PCB_UP](https://github.com/jibcamun/Mech/blob/main/Images/Image6.png)
+![PCB_DOWN](https://github.com/jibcamun/Mech/blob/main/Images/Image7.png)
 
 ## Case
-![WithCase](https://github.com/jibcamun/Mech/blob/main/Images/Image1.png)
-![WithCaseSIde](https://github.com/jibcamun/Mech/blob/main/Images/Image4.png)
+![With_Case](https://github.com/jibcamun/Mech/blob/main/Images/Image1.png)
+![With_Case_Side](https://github.com/jibcamun/Mech/blob/main/Images/Image4.png)
 
 ## Links 
-1. [Bill of Materials (BOM)]()
-2. [PCB Design]()
-3. [CAD Files]()
-4. [3D Model of Design]()
+1. [Bill of Materials (BOM)](https://github.com/jibcamun/Mech/blob/main/bill%20of%20materials.csv)
+2. [PCB Design](https://github.com/jibcamun/Mech/blob/main/PCB%20Design)
+3. [CAD Files](https://github.com/jibcamun/Mech/blob/main/3D%20Models)
+4. [3D Model of Design](https://github.com/jibcamun/Mech/blob/main/mech.step)
 
 ## Attributions 
 1. Cherry MX Switches: [row 1 1u blank keycap for cherry mx style switches](https://www.thingiverse.com/thing:5616342) by [LazarosVarvatis](https://www.thingiverse.com/LazarosVarvatis/designs) is licensed under the [Creative Commons - Attribution - Non-Commercial - Share Alike](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)

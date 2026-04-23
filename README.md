@@ -34,11 +34,21 @@ I have seen old people who use computers only as a calculator and find it hard t
 ## Zine
 ![Zine](https://github.com/jibcamun/Mech/blob/main/Images/Mech%20Zine.png)
 
+## Flashing the firmware
+
+
 ## Links 
 1. [Bill of Materials (BOM)](https://github.com/jibcamun/Mech/blob/main/BOM.csv)
 2. [PCB Design](https://github.com/jibcamun/Mech/blob/main/PCB%20Design)
 3. [CAD Files](https://github.com/jibcamun/Mech/blob/main/3D%20Models)
 4. [3D Model of Design](https://github.com/jibcamun/Mech/blob/main/mech.step)
+
+## Links for Materials (Available in BOM)
+1. PCBWay: https://www.pcbway.com/
+2. ROBU.IN: https://robu.in/product/pro-micro-5v-16m-mini-leonardo-micro-controller-development-board-for-arduino
+3. MECKEYS: https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/gateron-mechanical-switch/?attribute_pa_gateron-key-switches=ks-9a10b060nn-x14 
+4. Dexterous Manufacturing Labs Pvt Ltd: https://storefront.iamrapid.com/
+5. ELECTRONICS COMP: https://www.electronicscomp.com/1n4148-diode
 
 ## Attributions 
 1. Cherry MX Switches: [row 1 1u blank keycap for cherry mx style switches](https://www.thingiverse.com/thing:5616342) by [LazarosVarvatis](https://www.thingiverse.com/LazarosVarvatis/designs) is licensed under the [Creative Commons - Attribution - Non-Commercial - Share Alike](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)

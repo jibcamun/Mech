@@ -1,5 +1,5 @@
 <h1 align="center">Mech</h1>
-<p align="center">~ A numpad for the elderly</p>
+<p align="center">A numpad for the elderly</p>
 
 <p align="center">
   <img src="https://github.com/jibcamun/Mech/blob/main/Images/Image3.png" alt="Map">
@@ -15,7 +15,7 @@ I have seen old people who use computers only as a calculator and find it hard t
 
 ## Features
 1. Uses Arduino Pro Micro.
-2. Uses MX Switches (1.00u) and Cherry MX Keycaps for a better feel and feedback while pressing a key
+2. Uses MX Switches (1.00u) and Cherry MX Keycaps for a better feel and feedback while pressing a key.  
 3. Made it easy to connect and use with a USB connection, thus making it more accessible for the elderly.
 4. Simple UX, again making it easily usable for the elderly.
 5. All keycaps are angled forward making it easy for "finger typing".
@@ -32,8 +32,11 @@ I have seen old people who use computers only as a calculator and find it hard t
 ![With_Case](https://github.com/jibcamun/Mech/blob/main/Images/Image1.png)
 ![With_Case_Side](https://github.com/jibcamun/Mech/blob/main/Images/Image4.png)
 
+## Zine
+![Zine](https://github.com/jibcamun/Mech/blob/main/Images/Mech%20Zine.png)
+
 ## Links 
-1. [Bill of Materials (BOM)](https://github.com/jibcamun/Mech/blob/main/bill%20of%20materials.csv)
+1. [Bill of Materials (BOM)](https://github.com/jibcamun/Mech/blob/main/BOM.csv)
 2. [PCB Design](https://github.com/jibcamun/Mech/blob/main/PCB%20Design)
 3. [CAD Files](https://github.com/jibcamun/Mech/blob/main/3D%20Models)
 4. [3D Model of Design](https://github.com/jibcamun/Mech/blob/main/mech.step)

@@ -10,7 +10,7 @@
 A numpad, consisting numbers from 1 to 9.
 ### What does this do?
 Help people easily access numbers on a keyboard.
-### Why does this exists?
+### Why does this exists? _(Motivation to build this)_
 I have seen old people who use computers only as a calculator and find it hard to type numbers because its stacked at the top and they are more used to the typical calculator layout. _(my grandparents)_
 
 ## Features

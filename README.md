@@ -24,7 +24,6 @@ I have seen old people who use computers only as a calculator and find it hard t
 ![Schematics](https://github.com/jibcamun/Mech/blob/main/Images/Image5.png)
 
 ## PCB
-![PCB](https://github.com/jibcamun/Mech/blob/main/Images/Image2.png)
 ![PCB_UP](https://github.com/jibcamun/Mech/blob/main/Images/Image6.png)
 ![PCB_DOWN](https://github.com/jibcamun/Mech/blob/main/Images/Image7.png)
 

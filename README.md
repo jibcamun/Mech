@@ -44,7 +44,7 @@ I have seen old people who use computers only as a calculator and find it hard t
 4. [CAD Export Files](https://github.com/jibcamun/Mech/blob/main/3D%20Models)
 5. [3D Export of Design](https://github.com/jibcamun/Mech/blob/main/3D%20Models/mech.step)
 
-## Links for Materials (Available in BOM)
+## Links for Bill of Materials (Available in BOM)
 1. PCBWay: https://www.pcbway.com/
 2. ROBU.IN: https://robu.in/product/pro-micro-5v-16m-mini-leonardo-micro-controller-development-board-for-arduino
 3. MECKEYS: https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/gateron-mechanical-switch/?attribute_pa_gateron-key-switches=ks-9a10b060nn-x14 

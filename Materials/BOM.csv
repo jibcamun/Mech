@@ -1,6 +1,6 @@
-Item, Quantity, Cost (incl. shipping), Source, Link
-PCB, 5, 33.79, PCBWay, https://www.pcbway.com/
-Arduino Pro Micro, 1, 4.62, ROBU.IN, https://robu.in/product/pro-micro-5v-16m-mini-leonardo-micro-controller-development-board-for-arduino
-Gateron Mechanical Switch, 9, 2.76, MECKEYS, https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/gateron-mechanical-switch/?attribute_pa_gateron-key-switches=ks-9a10b060nn-x14 
-Keycaps 3D Print + Case 3D Print, 9 + 1, 4.44, Dexterous Manufacturing Labs Pvt Ltd, https://storefront.iamrapid.com/
-Through Hole Diodes, 9, 0.74, ELECTRONICS COMP, https://www.electronicscomp.com/1n4148-diode
+Item, Quantity, Cost, Source, Link
+PCB,5,33.79,PCBWay,https://www.pcbway.com/
+Arduino Pro Micro,1,4.62,ROBU.IN,https://robu.in/product/pro-micro-5v-16m-mini-leonardo-micro-controller-development-board-for-arduino
+Gateron Mechanical Switch,9,2.76,MECKEYS,https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/gateron-mechanical-switch/?attribute_pa_gateron-key-switches=ks-9a10b060nn-x14 
+Keycaps 3D Print + Case 3D Print,10,4.44,Dexterous Manufacturing Labs Pvt Ltd,https://storefront.iamrapid.com/
+Through Hole Diodes,9,0.74,ELECTRONICS COMP,https://www.electronicscomp.com/1n4148-diode

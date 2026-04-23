@@ -34,8 +34,19 @@ I have seen old people who use computers only as a calculator and find it hard t
 ## Zine
 ![Zine](https://github.com/jibcamun/Mech/blob/main/Images/Mech%20Zine.png)
 
-## Flashing the firmware
+## Build Guide
+### Step 1
+Solder all components to the PCB as indicated by the schematic diagrams.
+### Step 2
+Take the soldered PCB and place it in an appropriate orientation on the 3D printed component named "Bottom", in accordance with the position of the screw holes.
+### Step 3
+Place the 3D printed component named "Top" on the assembled setup and press them together _(like a sandwich)_.
 
+## Firmware Flashing
+### Step 1
+Connect the Pro Micro to your computer using the USB cable.
+### Step 2
+Install QMK WSYS (if on windows). Enter `qmk flash -kb mech -km default` in the terminal window, to flash the firmware.
 
 ## Links 
 1. [Bill of Materials (BOM)](https://github.com/jibcamun/Mech/blob/main/Materials/BOM.csv)

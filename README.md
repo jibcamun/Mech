@@ -40,8 +40,9 @@ I have seen old people who use computers only as a calculator and find it hard t
 ## Links 
 1. [Bill of Materials (BOM)](https://github.com/jibcamun/Mech/blob/main/BOM.csv)
 2. [PCB Design](https://github.com/jibcamun/Mech/blob/main/PCB%20Design)
-3. [CAD Files](https://github.com/jibcamun/Mech/blob/main/3D%20Models)
-4. [3D Model of Design](https://github.com/jibcamun/Mech/blob/main/mech.step)
+3. [3D Case Design](https://cad.onshape.com/documents/927574eef36e39d9a3de9231/w/e5b95da04439b4f215ef18f1/e/b08572cbae5c0041dba6a6c8?renderMode=0&uiState=69ea2cd7de772b1d4ea52e7f)
+4. [CAD Export Files](https://github.com/jibcamun/Mech/blob/main/3D%20Models)
+5. [3D Export of Design](https://github.com/jibcamun/Mech/blob/main/mech.step)
 
 ## Links for Materials (Available in BOM)
 1. PCBWay: https://www.pcbway.com/
